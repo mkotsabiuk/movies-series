@@ -11,6 +11,10 @@
 #imdb-logo {
   color: #f5de50;
 }
+
+.footer a:hover {
+  text-decoration: none;
+}
 @media (min-width: 960px) {
   #movies .col-md-3 .well {
     height: 390px;

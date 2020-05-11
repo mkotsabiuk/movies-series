@@ -7,7 +7,7 @@ function Navbar() {
         <div className="container">
           <div className="navbar-header">
             <a href="#" className="navbar-brand text-white text-lg brand-text">
-              Movie Series Info
+              Movies &amp; Series Info
             </a>
           </div>
           <ul className="navbar-nav ml-auto text-light d-inline-block">
