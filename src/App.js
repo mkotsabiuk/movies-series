@@ -13,9 +13,11 @@ function App() {
     <Provider store={store}>
       <Router>
         <div>
-          <Navbar />
-          <Route exact path="/" component={Landing}/>
-          <Route exact path="/movie/:id" component={Movie}/>
+          <div className="content-wrap">
+            <Navbar />
+            <Route exact path="/" component={Landing}/>
+            <Route exact path="/movie/:id" component={Movie}/>
+          </div>
           <Footer />
         </div>
       </Router>
