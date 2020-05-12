@@ -12,7 +12,7 @@ function Footer() {
         </a>
             , Using <i className="fab fa-react" /> React JS &amp; Redux JS
             integrated with external movies data API &nbsp;
-            <a href="http://www.omdbapi.com/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.omdbapi.com/" target="_blank" rel="noopener noreferrer">
           OMDB
             </a>
       </div>
