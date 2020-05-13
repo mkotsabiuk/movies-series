@@ -3,7 +3,7 @@ Movies & Series app, calling an external API (OMDB) to fetch the movie or the TV
 
 ## Demo
 
-![](https://github.com/mkotsabiuk/movies-series/upload/master/public/movies&series.gif)
+![](https://github.com/mkotsabiuk/movies-series/blob/master/public/movies%26series.gif)
 
 ## Run it locally
 
